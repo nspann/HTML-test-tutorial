@@ -1,3 +1,1 @@
-# Currently I am trying to upload files on Git Hub. These files are html files I
-
-# have worked on.
+# Currently I am trying to upload files on Git Hub and I am a newbie to Git Hub as I write this. These files are html files I have worked on. This is based on the html tutorials from this website: https://learn.shayhowe.com/html-css/
